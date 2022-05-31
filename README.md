@@ -10,7 +10,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* *Emmanuella Amukwuo* <[EllaLawrie](https://github.com/EllaLawrie)>
+* *Omoniyi Elijah* <[Niyicodes](https://github.com/niyicodes))>
 
 ## Acknowledgements :pray:
 
